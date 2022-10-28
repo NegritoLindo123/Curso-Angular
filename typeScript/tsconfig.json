@@ -1,0 +1,6 @@
+//File to configurate typescript types
+{
+    "compilerOptions": {
+        "noImplicitAny": false
+    }
+}
